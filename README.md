@@ -29,4 +29,4 @@ Business Intelligence
 
 ## Dashboard Preview
 
-![Sales-Dashboard](SalesDashboard.png.png)
+![Sales-Dashboard](Sales-Dashboard.png.png)
