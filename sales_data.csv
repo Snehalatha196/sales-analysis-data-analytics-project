@@ -1,0 +1,55 @@
+Order_ID,Date,Product,Category,Quantity,Price,City,Sales
+101,01-01-2026,Laptop,Electronics,1,50000,Bangalore,50000
+102,02-01-2026,Shoes,Fashion,2,2000,Hyderabad,4000
+103,03-01-2026,Phone,Electronics,1,30000,Chennai,30000
+104,04-01-2026,T-Shirt,Clothing,3,800,Mumbai,2400
+105,05-01-2026,Headphones,Electronics,2,1500,Bangalore,3000
+106,06-01-2026,Jeans,Clothing,1,2500,Delhi,2500
+107,07-01-2026,Watch,Accessories,1,5000,Hyderabad,5000
+108,08-01-2026,Tablet,Electronics,1,25000,Chennai,25000
+109,09-01-2026,Jacket,Clothing,2,3000,Mumbai,6000
+110,10-01-2026,Sneakers,Fashion,1,3500,Bangalore,3500
+111,11-01-2026,Laptop,Electronics,1,52000,Delhi,52000
+112,12-01-2026,Phone,Electronics,2,28000,Hyderabad,56000
+113,13-01-2026,T-Shirt,Clothing,4,700,Chennai,2800
+114,14-01-2026,Watch,Accessories,1,4500,Bangalore,4500
+115,15-01-2026,Shoes,Fashion,3,2200,Mumbai,6600
+116,16-01-2026,Headphones,Electronics,2,1800,Delhi,3600
+117,17-01-2026,Jacket,Clothing,1,3200,Hyderabad,3200
+118,18-01-2026,Tablet,Electronics,1,27000,Bangalore,27000
+119,19-01-2026,Sneakers,Fashion,2,3300,Chennai,6600
+120,20-01-2026,Jeans,Clothing,2,2400,Mumbai,4800
+121,21-01-2026,Laptop,Electronics,1,51000,Bangalore,51000
+122,22-01-2026,Phone,Electronics,1,29000,Delhi,29000
+123,23-01-2026,T-Shirt,Clothing,3,750,Hyderabad,2250
+124,24-01-2026,Watch,Accessories,2,4700,Chennai,9400
+125,25-01-2026,Shoes,Fashion,2,2100,Mumbai,4200
+126,26-01-2026,Jacket,Clothing,1,3100,Bangalore,3100
+127,27-01-2026,Tablet,Electronics,1,26000,Hyderabad,26000
+128,28-01-2026,Sneakers,Fashion,1,3400,Delhi,3400
+129,29-01-2026,Headphones,Electronics,2,1700,Chennai,3400
+130,30-01-2026,Jeans,Clothing,2,2300,Mumbai,4600
+131,31-01-2026,Laptop,Electronics,1,53000,Bangalore,53000
+132,01-02-2026,Phone,Electronics,1,30000,Hyderabad,30000
+133,02-02-2026,T-Shirt,Clothing,2,800,Delhi,1600
+134,03-02-2026,Watch,Accessories,1,4600,Chennai,4600
+135,04-02-2026,Shoes,Fashion,2,2150,Mumbai,4300
+136,05-02-2026,Jacket,Clothing,1,3050,Bangalore,3050
+137,06-02-2026,Tablet,Electronics,1,25500,Delhi,25500
+138,07-02-2026,Sneakers,Fashion,2,3200,Hyderabad,6400
+139,08-02-2026,Headphones,Electronics,3,1600,Chennai,4800
+140,09-02-2026,Jeans,Clothing,1,2400,Mumbai,2400
+141,10-02-2026,Laptop,Electronics,1,54000,Bangalore,54000
+142,11-02-2026,Phone,Electronics,2,29500,Delhi,59000
+143,12-02-2026,T-Shirt,Clothing,3,780,Hyderabad,2340
+144,13-02-2026,Watch,Accessories,1,4800,Chennai,4800
+145,14-02-2026,Shoes,Fashion,2,2300,Mumbai,4600
+146,15-02-2026,Jacket,Clothing,1,3300,Bangalore,3300
+147,16-02-2026,Tablet,Electronics,1,26500,Hyderabad,26500
+148,17-02-2026,Sneakers,Fashion,2,3450,Delhi,6900
+149,18-02-2026,Headphones,Electronics,2,1750,Chennai,3500
+150,19-02-2026,Jeans,Clothing,2,2500,Mumbai,5000
+Total revenue,,,,,,,740440
+Total orders,,,,,,,50
+Highest sale,,,,,,,59000
+Aaverage revenue,,,,,,,14808.8
